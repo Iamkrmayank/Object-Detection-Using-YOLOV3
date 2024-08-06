@@ -1,4 +1,4 @@
-# Object-Detection-Using-YOLOV3
+# Object Detection Using YOLOV3
 
 ![YOLO_Architecture_from_the_original_paper_ff4e5383c0](https://github.com/user-attachments/assets/d314f968-adb5-4d75-b73d-f6c5d86a459d)
 
